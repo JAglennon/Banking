@@ -286,7 +286,7 @@ echo "</table>";
 	}
 	
 	</style>
-	<p>Julie-Anne Glennon 			Student Number 2864184</p>
+	<p>Julie-Anne Glennon </p>
 	</footer>	
 	
 </html>
